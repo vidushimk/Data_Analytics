@@ -3,5 +3,5 @@
 
 ###Data analytics learning
 
-*Listitem1
-*Listitem2
+* Listitem1
+* Listitem2
